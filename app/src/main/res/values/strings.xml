@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutGoogle</string>
+    <string name="not_log_in">Login Failed</string>
+    <string name="log_out">Log Out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">Sesion sin cerrar</string>
+    <string name="not_revoke">Sin Revoke</string>
+</resources>
